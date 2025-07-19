@@ -25,10 +25,9 @@ Applicare strumenti da riga di comando per la gestione, conversione, analisi e v
 ## File disponibili
 
 Per ogni esercitazione sono disponibili:
-Un file .docx (esportabile anche in .pdf) con spiegazione dettagliata dei comandi e immagini illustrative.
-File .tif, .asc, .shp utilizzati durante le esercitazioni.
-
-Screenshot e output finali generati dalle operazioni GDAL.
+- Un file .docx (esportabile anche in .pdf) con spiegazione dettagliata dei comandi e immagini illustrative.
+- File .tif, .asc, .shp utilizzati durante le esercitazioni.
+- Screenshot e output finali generati dalle operazioni GDAL.
 
 ---
 
