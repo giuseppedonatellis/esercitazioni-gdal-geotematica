@@ -36,6 +36,8 @@ Per ogni esercitazione sono disponibili:
 Giuseppe Donatellis, studente magistrale in Scienze Naturali – Università degli Studi di Napoli Federico II
 Corso: GIS e Cartografia Geotematica
 
+---
+
 ## Software utilizzato: 
 - GDAL (tramite OSGeo4W Shell)
 - QGIS (per la visualizzazione degli output)
