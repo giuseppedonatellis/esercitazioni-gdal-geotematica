@@ -12,7 +12,7 @@ Applicare strumenti da riga di comando per la gestione, conversione, analisi e v
 
 ## Contenuto della repository
 
-| N. | Titolo esercitazione                                             | Descrizione sintetica |
+| N. | Titolo esercitazione                                            | Descrizione sintetica                                                                          |
 |----|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | 1  | **Esercitazione_GDAL_Installazione**                            | Installazione e verifica dell’ambiente GDAL tramite OSGeo4W Shell.                             |
 | 2  | **Esercitazione_GDAL_Clipping_Raster**                          | Ritaglio (clip) di un raster sulla base di uno shapefile comunale.                             |
@@ -36,7 +36,7 @@ Per ogni esercitazione sono disponibili:
 Giuseppe Donatellis, studente magistrale in Scienze Naturali – Università degli Studi di Napoli Federico II
 Corso: GIS e Cartografia Geotematica
 
-Software utilizzato: 
+## Software utilizzato: 
 - GDAL (tramite OSGeo4W Shell)
 - QGIS (per la visualizzazione degli output)
 
@@ -51,7 +51,6 @@ Questo progetto è rilasciato con licenza MIT. I dati provenienti da enti istitu
 ## Accesso ai dati
 
 https://drive.google.com/drive/folders/10rysuuCYxBDdpCQX4eE-dj4ykIdbRftM?usp=drive_link
-
 
 ---
 
